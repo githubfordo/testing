@@ -8,7 +8,7 @@ from stop_words import get_stop_words
 import pickle
 from operator import itemgetter
 
-
+#delete branch
 stop_words = get_stop_words('en')
 p = ['to','and','it','the']
 for i in p:
